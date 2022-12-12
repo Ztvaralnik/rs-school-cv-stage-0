@@ -1,1 +1,1 @@
-https://Ztvaralnik.github.io/rsschool-cv/cv
+https://ztvaralnik.github.io/rsschool-cv/
