@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #EDF2EC;
+    height: 134px;
+    padding-left: 111px;
+    padding-right: 109px;
+}
+
+.logo {
+
+    padding-top: 54.66px;
+    
+}
+
+.menu {font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 50px;
+    list-style-type: none;
+    color: #010201;
+}
+
+.inline {
+    display: inline;
+    margin-right: 46px;
+}
+
+.menu-home{
+    color: #E06733;
+}    
+
+.welcome {
+    padding-left: 109px;
+    padding-right: 109px;
+    height: 532px;
+    background: #EDF2EC;
+}
+
+h1 {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 50px;
+color: #717171;
+}
+
+.button-welcome{
+    border: 2px solid #E06733;
+    border-radius: 10px;
+}
