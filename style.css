@@ -3,20 +3,21 @@ body {
     
 }
 
-nav {
+nav  {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
     background: #EDF2EC;
     height: 134px;
     padding-left: 111px;
     padding-right: 109px;
+    
 }
 
 .logo {
-
-    padding-top: 54.66px;
-    
+    display: flex;
+    align-items: center;
 }
 
 .menu {font-family: 'Inika';
@@ -41,19 +42,35 @@ nav {
     padding-left: 109px;
     padding-right: 109px;
     height: 532px;
+    
     background: #EDF2EC;
+    
+}
+
+.welcomeRight {
+    display: flex;
+     justify-content: right;
+}
+
+.welcomeImg {
+    position: absolute;
+
 }
 
 h1 {
     font-family: 'Inter';
-font-style: normal;
-font-weight: 700;
-font-size: 45px;
-line-height: 50px;
-color: #717171;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 50px;
+    color: #717171;
+
+
 }
 
 .button-welcome{
     border: 2px solid #E06733;
     border-radius: 10px;
+    display: flex;
+     justify-content: right;
 }
