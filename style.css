@@ -74,3 +74,50 @@ h1 {
     display: flex;
      justify-content: right;
 }
+
+.service{
+    width: 1440px;
+height: 1300px;
+background: #EDF2EC;
+}
+
+.serviceimg{
+    border-radius: 20px 20px 0px 0px;
+}
+.contacts{
+width: 1440px;
+height: 550px;
+background: #EDF2EC;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    padding-left: 111px;
+    padding-right: 109px;
+    width: 1440px;
+    height: 130px;
+    left: 0px;
+    top: 3740px;
+    background: #FFFFFF;
+
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 50px;
+}
+
+
+.footer {
+    display: inline;
+    margin-right: 30px;
+     
+}
+
+.footerRight {
+    justify-content: right;
+}
+
