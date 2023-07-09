@@ -10,17 +10,41 @@ position: relative;
 }
 
 h3{
+    font-size: 36px;
     font:700;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
+ul {
+    
+    margin-left: 40%;
+}
+
+.b {
+    color:blue;
+    font-size: 18px;
+    margin-left: 46%;
+}
 h1{
     font:900;
     font-size: 36px;
    text-align: center;
 }
 
+.h3 {
+    margin-top: -100px;
+}
+
+h4 {font-size: 28px;
+    margin-top: -10px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+
+}
+
 body{
-    background-color: #5da130;
+   background-color: rgb(168, 221, 22);
 }
 
 p{
@@ -28,7 +52,10 @@ p{
     text-align: center;
 }
 
+
+
 .logo {
     position: absolute;
 top: 0px;
+left: 0px;
 }
