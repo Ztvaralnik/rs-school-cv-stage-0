@@ -1,2 +1,2 @@
 
-https://ztvaralnik.github.io/rsschool-cv/
+https://ztvaralnik.github.io/rs-school-cv-stage-0/
